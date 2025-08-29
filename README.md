@@ -23,11 +23,11 @@ The project demonstrates the structural and stress analysis of a CubeSat frame d
 - **Domain:**  Structural Analysis  
 - **Objective:** To analyze the structural integrity of a CubeSat frame using computational methods.  
 - **Key Features:**
-  - Structural and stress analysis of CubeSat frame  
-  - Application of Finite Element Method (FEM)  
-  - Recommendations for design optimization
-  - Thermal and load factor analysis under space environment conditions
-  - Recommendations for weight reduction and design optimization
+ - Structural and stress analysis of CubeSat frame  
+ - Application of Finite Element Method (FEM)  
+ - Recommendations for design optimization
+ - Thermal and load factor analysis under space environment conditions
+ - Recommendations for weight reduction and design optimization
 
 ---
 
