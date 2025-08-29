@@ -1,15 +1,11 @@
 # 🛰️ Analysis of NASA CubeSat Frame
 
-This repository contains my final year project on the **Analysis of NASA CubeSat Frame**.  
+This repository contains my Internship project on the **Analysis of NASA CubeSat Frame**.  
 The project demonstrates the structural and stress analysis of a CubeSat frame design to evaluate its suitability for space missions.  
 
 ---
 
-## 📽️ Project Video
-- [Watch on Google Drive](https://drive.google.com/your-link-here)  
-- *(Optional)* [Watch on GitHub](video/Final_Project.mp4)  
 
----
 
 ## 📑 Repository Contents
 - `README.md` → Project documentation  
@@ -44,4 +40,4 @@ The project demonstrates the structural and stress analysis of a CubeSat frame d
 ## 👤 Author
 - **Name:** AGNIVA HAZRA  
 - **LinkedIn:** [Agniva Hazra](https://www.linkedin.com/in/agniva-hazra-85b4162a7)  
-- **Email:** [Your Email]
+- **Email:** [hazrasayan007@gmail.com]
