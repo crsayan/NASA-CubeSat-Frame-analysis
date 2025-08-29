@@ -15,7 +15,7 @@ The project demonstrates the structural and stress analysis of a CubeSat frame d
 - `solution/M5A-Solution.wbpz` → Complete project solution file  
 - `docs/` → Supporting materials (presentations, diagrams, notes)  
 - `src/` → Source code/scripts used in analysis  
-- `video/` → Project presentation video  
+ 
 
 ---
 
