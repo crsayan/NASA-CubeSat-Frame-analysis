@@ -21,7 +21,7 @@ The project demonstrates the structural and stress analysis of a CubeSat frame d
 
 ## 📌 Project Overview
 - **Title:** Analysis of NASA CubeSat Frame  
-- **Domain:** Aerospace Engineering / Structural Analysis  
+- **Domain:**  Structural Analysis  
 - **Objective:** To analyze the structural integrity of a CubeSat frame using computational methods.  
 - **Key Features:**
   - Structural and stress analysis of CubeSat frame  
@@ -31,9 +31,8 @@ The project demonstrates the structural and stress analysis of a CubeSat frame d
 ---
 
 ## 🛠️ Tools & Methods
-- **Software:** Altair Inspire, ANSYS, SolidWorks  
+- **Software:**  ANSYS, SolidWorks  
 - **Techniques:** Finite Element Analysis (FEA), Load Analysis, Stress Testing  
-- **Programming (if applicable):** MATLAB, Python  
 
 ---
 
