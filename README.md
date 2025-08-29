@@ -11,7 +11,6 @@ The project demonstrates the structural and stress analysis of a CubeSat frame d
 - `README.md` → Project documentation  
 - `LICENSE` → Open source license (MIT)  
 - `.gitignore` → Ignored files list  
-- `Report.pdf` → Final project report (add here if available)  
 - `solution/M5A-Solution.wbpz` → Complete project solution file  
 - `docs/` → Supporting materials (presentations, diagrams, notes)  
 - `src/` → Source code/scripts used in analysis  
